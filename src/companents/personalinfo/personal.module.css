@@ -1,0 +1,12 @@
+.header{
+    background-color:brown;
+    padding: 60px;
+    color: white;
+}
+h1,h2{
+    margin-bottom: 10px;
+}
+.p{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
